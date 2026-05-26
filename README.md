@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Identificación de especies a partir de audio, centrada en aves, anfibios, mamíferos e insectos del Valle Medio del Magdalena en Colombia.
-" width="100%">
+  <img src="./banner.png" alt="Identificación de especies - Valle Medio del Magdalena" width="100%">
 </p>
 
 # Identificación de especies a partir de audio, centrada en aves, anfibios, mamíferos e insectos del Valle Medio del Magdalena en Colombia.
