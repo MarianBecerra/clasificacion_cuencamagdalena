@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Identificación de especies - Valle Medio del Magdalena" width="100%">
-</p>
-
 # Identificación de especies a partir de audio, centrada en aves, anfibios, mamíferos e insectos del Valle Medio del Magdalena en Colombia.
 
 Este repositorio contiene el desarrollo y evaluación de un clasificador de audio basado en Machine Learning para especies clave del Magdalena Medio. El proyecto implementa y valida la arquitectura propuesta en el paper *"Animal acoustic identification, denoising and source separation using generative adversarial networks"*, evaluando su viabilidad frente a arquitecturas de alta complejidad teórica bajo restricciones computacionales.
